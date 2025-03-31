@@ -4,7 +4,7 @@
 
  ✨ Features  
 
-✅ Generate a structured file tree 📂 and save it directly as 📄 <foldername>_FileStructure.txt.  
+✅ Generate a structured file tree 📂 and save it directly as 📄  Mainfoldername_FileStructure.txt.  
 ✅ Show file sizes 📏, timestamps ⏳, and permissions 🔑  
 ✅ Filter files by type, depth, and hidden status  
 ✅ Emoji support for better readability 🐍📄🖼️  
@@ -17,7 +17,7 @@
 
  🔧 Clone the Repository  
 
-git clone https://github.com/yourusername/TreeXplorer.git  
+git clone https://github.com/M-INDN-SEDTA/TreeXplorer.git  
 cd TreeXplorer  
 
  ▶️ Run the Script  
